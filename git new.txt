@@ -1,1 +1,2 @@
 Hola, este es mi primera inicialización de git
+Ahora trataré de hacer mi primer push
